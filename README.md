@@ -96,3 +96,9 @@ This extension passively collects JavaScript URLs and paths observed in traffic 
 ## Disclaimer
 
 This tool is intended **for authorized security testing, bug bounty hunting, and educational purposes only**. You are solely responsible for ensuring that you have explicit permission to test any target systems. The author assumes no liability for any misuse or damage caused by this software.
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
